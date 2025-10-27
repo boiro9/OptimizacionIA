@@ -1,0 +1,4 @@
+# MyST build outputs
+.ipynb_checkpoints
+venv
+__pycache__
