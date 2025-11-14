@@ -1,0 +1,16 @@
+# Widgets y JupyterLab
+ipywidgets
+jupyterlab
+jupyterlab_widgets
+
+# Librerías base
+numpy
+pandas
+plotly
+
+# Optimización
+pyomo
+amplpy
+
+# Módulos AMPL (se completan en postBuild)
+amplpy[modules]
