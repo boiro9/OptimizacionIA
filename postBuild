@@ -1,8 +1,5 @@
 #!/bin/bash
 set -e
 
-# Activar widgets en JupyterLab
-jupyter nbextension enable --py widgetsnbextension --sys-prefix
-
 # Instalar módulos AMPL en la imagen de Binder
 python -m amplpy.modules install coin highs scip gcg -q
