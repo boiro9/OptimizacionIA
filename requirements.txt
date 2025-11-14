@@ -1,7 +1,7 @@
 # Widgets y JupyterLab
 ipywidgets
-jupyterlab
-jupyterlab_widgets
+#jupyterlab
+#jupyterlab_widgets
 
 # Librerías base
 numpy
