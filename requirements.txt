@@ -14,3 +14,6 @@ amplpy
 
 # Módulos AMPL (se completan en postBuild)
 amplpy[modules]
+
+# Voila
+voila
