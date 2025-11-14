@@ -1,5 +1,0 @@
-#!/bin/bash
-set -e
-
-# Instalar módulos AMPL en la imagen de Binder
-python -m amplpy.modules install coin -q

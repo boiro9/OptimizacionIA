@@ -1,7 +1,5 @@
 # Widgets y JupyterLab
 ipywidgets
-#jupyterlab
-#jupyterlab_widgets
 
 # Librerías base
 numpy
@@ -10,10 +8,7 @@ plotly
 
 # Optimización
 pyomo
-amplpy
-
-# Módulos AMPL (se completan en postBuild)
-amplpy[modules]
+highspy
 
 # Voila
 voila
